@@ -1,7 +1,7 @@
 {
-  "name": "Shadowsocks+V2Ray-plugin Rapid deployment",
-  "description": "Deploy Shadowsocks+V2Ray-plugin to Heroku.",
-  "keywords": ["V2ray", "Shadowsocks", "V2Ray-plugin"],
+  "name": "Okhla",
+  "description": "Deploy okhla to Heroku.",
+  "keywords": ["okhla"],
   "env": {
      "ENCRYPT": {
       "description": "Shadowsocks encryption method.",
